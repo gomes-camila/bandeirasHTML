@@ -1,4 +1,4 @@
 function criarTela() {
     var tela = document.querySelector("canvas");
-    var pincel = tela.getContext("2d");    
+    var pincel = tela.getContext("2d");
 }
